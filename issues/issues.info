@@ -1,0 +1,4 @@
+; $Id$
+name = Issues
+description = Allows users to manage Issues for periodical publications.
+core = 6.x
